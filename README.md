@@ -3,7 +3,7 @@ Sloth Clicker is a game made by Jack O'Brien
 This game is not to be Published as your own this is a GitHub Repository just for People to View the code
 Vist Sloth Clicker on https://JackachuYT.github.io/Sloth-Clicker
 
-Sloth Clicker Copyright (c) 2025 Jack O’Brien (JackachuYT)
+Sloth Clicker Copyright (c) 2025 Jack O’Brien (JackachuYT) and or Sloth Games 
 
 All Rights Reserved.
 
@@ -23,10 +23,14 @@ You are not permitted to:
 This project is protected under international copyright law.
 Unauthorized use will be considered a violation of copyright.
 
+
+
 For permission requests, please contact:
 📧 jack@sloz.digital
 
-Created by Jack O’Brien (JackachuYT)
+Created by Jack O’Brien (JackachuYT) and or Sloth Games
 2025
+
+Sloth Games is part of Sloz Incoporated
 
 ;D - Jack O'Brien
