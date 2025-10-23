@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Sloth-Clicker/static/css/main.e6c13ad2.css",
-    "main.js": "/Sloth-Clicker/static/js/main.746fee89.js",
+    "main.js": "/Sloth-Clicker/static/js/main.1aa34c18.js",
     "static/js/453.38b7d65d.chunk.js": "/Sloth-Clicker/static/js/453.38b7d65d.chunk.js",
     "static/media/the-realization-ambient-piano-230860.mp3": "/Sloth-Clicker/static/media/the-realization-ambient-piano-230860.f9c6bca647f403842796.mp3",
     "static/media/coolbackgrounds-unsplash-bean.jpg": "/Sloth-Clicker/static/media/coolbackgrounds-unsplash-bean.11ccae7d1972627b6534.jpg",
@@ -12,11 +12,11 @@
     "static/media/mouse-click-sound.wav": "/Sloth-Clicker/static/media/mouse-click-sound.74fdf6c1316731d40267.wav",
     "index.html": "/Sloth-Clicker/index.html",
     "main.e6c13ad2.css.map": "/Sloth-Clicker/static/css/main.e6c13ad2.css.map",
-    "main.746fee89.js.map": "/Sloth-Clicker/static/js/main.746fee89.js.map",
+    "main.1aa34c18.js.map": "/Sloth-Clicker/static/js/main.1aa34c18.js.map",
     "453.38b7d65d.chunk.js.map": "/Sloth-Clicker/static/js/453.38b7d65d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.746fee89.js"
+    "static/js/main.1aa34c18.js"
   ]
 }
