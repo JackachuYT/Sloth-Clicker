@@ -1,0 +1,17 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "clicker-game",
+      "runtimeExecutable": "/Users/jackachu/Documents/ClickerGam/node_modules/.bin/react-scripts",
+      "runtimeArgs": ["start"],
+      "port": 3000
+    },
+    {
+      "name": "warzone-zero",
+      "runtimeExecutable": "bash",
+      "runtimeArgs": ["-c", "cd /Users/jackachu/Documents/gam && npm run start"],
+      "port": 3001
+    }
+  ]
+}
